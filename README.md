@@ -4,7 +4,7 @@ Projeto de um sistema full stack
 
 ## Alunos
  - João Pedro Maschion
- - Athos Rodrigues Alves
+ - ` Athos Rodrigues Alves `
  - Douglas Benitah
 ## Tema do projeto
  - Usar como base o projeto que fizemos na at2 nessa ac mas com notícias de esporte
