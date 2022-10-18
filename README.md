@@ -16,6 +16,9 @@ Projeto de um sistema full stack
  - Douglas Benitah
 ## Tema do projeto
  - Usar como base o projeto que fizemos na at2 nessa ac mas com um site de informações sobre uma bijuteria    
-   
+ ## Links 
+ wireframe:
+https://www.figma.com/file/Xeo2avMEa2y4IlCc52Ll9j/Ac---T%C3%A9cnicos?node-id=0%3A1
+
+
  
- ![image](https://user-images.githubusercontent.com/101105673/190267868-d30ad22d-3074-4801-bfaa-e1c63cdf6eed.png)
